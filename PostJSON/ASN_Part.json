@@ -1,0 +1,19 @@
+﻿[
+  {
+    "fromLocation": "PMCH",
+    "toLocation": "Unilever",
+    "shipDate": "2023-01-24",
+    "carrier": "SNOW",
+    "trailerNumber": "500",
+    "partnerReferenceNumber": "DaveTestProdPart",
+    "shippingNoticeItems": [
+      {
+        "productionPartNumber": "LGWW",
+        "quantity": "22000"
+      }
+    ],
+    "carrierReferenceNumber": "SnowCarrier",
+    "licensePlateNumber": "XXX-1234",
+    "seal": "55555"
+  }
+]

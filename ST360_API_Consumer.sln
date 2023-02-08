@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST360_API_Consumer", "ST360_API_Consumer.csproj", "{8958E572-F596-4B9E-A9D1-0C4FBB85AA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8958E572-F596-4B9E-A9D1-0C4FBB85AA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8958E572-F596-4B9E-A9D1-0C4FBB85AA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8958E572-F596-4B9E-A9D1-0C4FBB85AA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8958E572-F596-4B9E-A9D1-0C4FBB85AA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53CB7DD8-7069-4896-BD81-0AEBBA6B8340}
+	EndGlobalSection
+EndGlobal

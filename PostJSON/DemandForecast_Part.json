@@ -1,0 +1,18 @@
+﻿[
+  {
+    "fromLocation": "Partner-21",
+    "toLocation": "Plant-21",
+    "plannedDeliveryDate": "2023-01-22T06:40:00.3199702Z",
+    "partnerReferenceNumber": "4",
+    "items": [
+      {
+        "productionPartNumber": "knoor2",
+        "quantity": "500"
+      },
+      {
+        "productionPartNumber": "BRK-1",
+        "quantity": "300"
+      }
+    ]
+  }
+]

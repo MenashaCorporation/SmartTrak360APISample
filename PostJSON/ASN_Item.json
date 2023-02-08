@@ -1,0 +1,39 @@
+﻿[
+  {
+    "fromLocation": "PMCH",
+    "toLocation": "Unilever",
+    "shipDate": "2023-01-24",
+    "carrier": "SNOW",
+    "trailerNumber": "500",
+    "partnerReferenceNumber": "DaveTest1",
+    "shippingNoticeItems": [
+      {
+        "itemNumber": "BGBin",
+        "quantity": "75"
+      },
+      {
+        "itemNumber": "BBBin",
+        "quantity": "500"
+      },
+      {
+        "itemNumber": "BGLid",
+        "quantity": "50"
+      },
+      {
+        "itemNumber": "BBLid",
+        "quantity": "100"
+      },
+      {
+        "itemNumber": "BGLidBoom",
+        "quantity": "50"
+      },
+      {
+        "itemNumber": "KenWolterContainer",
+        "quantity": "100"
+      }
+    ],
+    "carrierReferenceNumber": "SnowCarrier",
+    "licensePlateNumber": "XXX-1234",
+    "seal": "55555"
+  }
+]

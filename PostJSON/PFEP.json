@@ -1,0 +1,15 @@
+﻿[
+  {
+    "partNumber": "KNOOR2",
+    "fromLocation": "Partner-21",
+    "toLocation": "Plant-21",
+    "effectiveDateFrom": null,
+    "effectiveDateTo": null,
+    "containerItemNumber": "HandTest",
+    "quantityPerContainer": 20,
+    "palletized": false,
+    "containersPerPallet": 5,
+    "includeTopCap": false,
+    "enabled": true
+  }
+]
