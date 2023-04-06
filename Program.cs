@@ -30,6 +30,7 @@ namespace ST360_API_Consumer
             Console.WriteLine("3. ASN by Production Part");
             Console.WriteLine("4. Demand Forecast by Item");
             Console.WriteLine("5. Demand Forecast by Production Part");
+            Console.WriteLine("6. Partner Order by Item");
             Console.WriteLine();
 
             var integrationSelection = Console.ReadLine();

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "fromLocation": "EMG-21",
+    "toLocation": "Partner-21",
+    "carrier": "SCAC",
+    "trailerNumber": "123",
+    "plannedDepartureDateTime": "2023-04-24",
+    "partnerReferenceNumber": "PlannedOrder",
+    "partnerOrderItems": [
+      {
+        "itemNumber": "TTC",
+        "quantity": "1"
+      },
+      {
+        "itemNumber": "00123456",
+        "quantity": "2"
+      }
+    ],
+    "carrierReferenceNumber": "1",
+    "licensePlate": "1",
+    "seal": "1"
+  },
+  {
+    "toLocation": "Partner-21",
+    "dateRequired": "2023-04-29",
+    "partnerReferenceNumber": "NoFromLocation",
+    "partnerOrderItems": [
+      {
+        "itemNumber": "TTC",
+        "quantity": "10"
+      },
+      {
+        "itemNumber": "00123456",
+        "quantity": "20"
+      }
+    ]
+  }
+]
